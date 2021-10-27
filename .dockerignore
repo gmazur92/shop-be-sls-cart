@@ -1,0 +1,7 @@
+//build will create it by npm build
+**/dist
+// node_modules will create it by npm install
+**/node_modules
+//files that not required
+.gitignore
+README.md
